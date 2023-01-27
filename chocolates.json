@@ -1,0 +1,52 @@
+[
+    {
+        "id": "chocolate-1",
+        "titulo": "Tabla de chocolate",
+        "imagen": "img/Barra_De_Chocolate.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 800
+    },
+    {
+        "id": "chocolate-2",
+        "titulo": "Mando de chocolate",
+        "imagen": "img/Kit.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "box-1",
+        "titulo": "Box de chocolate",
+        "imagen": "img/Box_chocolates.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "chocolate-3",
+        "titulo": "Bombom de chocolate",
+        "imagen": "img/bombon.png",
+        "categoria": {
+            "nombre": "Chocolates",
+            "id": "chocolates"
+        },
+        "precio": 700
+    },
+    {
+        "id": "huevo-1",
+        "titulo": "Huevo de pascua",
+        "imagen": "img/Huevo_De_Pascua.png",
+        "categoria": {
+            "nombre": "Huevos de pascua",
+            "id": "huevo"
+        },
+        "precio": 1000
+    }
+]
